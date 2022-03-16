@@ -1,7 +1,6 @@
 - 👋 Soy @craciu25yt
 - 📣 Contactos: 
-         Mail: craciu25ytoficial@gmail.com 
-         Discord: craciu25_YT#0001
-         AuchenDevs Mail: auchendevs@gmail.com
+         Mail: craciu25yt@protonmail.com
+         Discord: craciu25_YT#3332
 - 👀 Trabajando en AuchenDevs 
 
