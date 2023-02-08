@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm crciu25yt</h1>
-<h3 align="center">A spanish batch programmer</h3>
+<h3 align="center">A spanish Batch, JavaScript and Python Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=craciu25yt&label=Profile%20views&color=0e75b6&style=flat" alt="craciu25yt" /> </p>
 
@@ -7,12 +7,17 @@
 
 - 🔭 I’m currently working on [AuchenDevs](https://github.com/AuchenDevs)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java Script**
 
 - 📫 How to reach me **craciu25yt@protonmail.com**
 
 - ⚡ Fun fact **I learn batch just reading code**
 
+<p align="center">
+  <a href="https://discord.com/users/416970782577524736">
+    <img align="center" src="https://lanyard.cnrad.dev/api/416970782577524736?&animated=true&idleMessage=Idleing&borderRadius=25px)" alt="craciu25_YT"/>
+  </a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/craciu25_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="craciu25_yt" height="30" width="40" /></a>
