@@ -10,7 +10,7 @@
 
 <p>- 📫 You can reach me via <a href="https://www.guilded.gg/profile/4or8BjwA">Guilded</a> or <a href="https://discord.com/users/416970782577524736">Discord</a></p>
 
-- ⚡ Fun fact <b>I learn batch just reading code</b>
+<p>- ⚡ Fun fact <b>I learn batch just reading code</b></p>
 </div>
 <p align="center">
   <a href="https://discord.com/users/416970782577524736">
