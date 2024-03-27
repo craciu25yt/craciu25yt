@@ -29,3 +29,4 @@
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=craciu25yt&show_icons=true&theme=dark&locale=en" alt="craciu25yt" />
 </p>
+![](https://hit.yhype.me/github/profile?user_id=48807342)
