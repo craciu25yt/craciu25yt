@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm crciu25yt</h1>
-<h3 align="center">A spanish Batch, JavaScript and Python Dev</h3>
+<h3 align="center">A spanish Batch, JavaScript, Python, Go and C++ Dev</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=craciu25yt&label=Profile%20views&color=0e75b6&style=flat" alt="craciu25yt" /> </p>
 
 <div align="center" style="margin-bottom:40px;">
 <p>- 🔭 I’m working on <a href="https://github.com/AuchenDevs">AuchenDevs</a></p>
 
-<p>- 🌱 I’m currently learning <b>Java Script</b></p>
+<p>- 🌱 I’m currently learning <b>C++</b></p>
 
 <p>- 📫 You can reach me via <a href="https://www.guilded.gg/profile/4or8BjwA">Guilded</a> or <a href="https://discord.com/users/416970782577524736">Discord</a></p>
 
